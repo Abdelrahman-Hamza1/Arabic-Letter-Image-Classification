@@ -1,0 +1,5 @@
+the compressed file called trainAndTest
+should be uploaded in the begining to upload data
+
+digitsCNN.h5 should be uploaded if we wish to use the 
+transfer learning part
